@@ -8,7 +8,7 @@
 
 
     <style>
-        #menu {
+        .menu {
             display: none;
             position: absolute;
             top: 10;
@@ -35,7 +35,7 @@
 
 
 <body id="myBody">
-    <div id="menu"></div>
+    <div class="menu"></div>
 
     <div data-role="page" id="pageone">
         <div data-role="header">
@@ -57,7 +57,7 @@
                 var y = e.pageY + 'px';
 
 
-                $('#menu').css({
+                $('.menu').css({
                     'top': y,
                     'left': x
                 }).fadeIn('slow');
