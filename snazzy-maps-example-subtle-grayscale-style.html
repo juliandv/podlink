@@ -13,8 +13,12 @@
     <title>Snazzy Maps Super Simple Example</title>
 
     <style type="text/css">
-        /* Set a size for our map container, the Google Map will take up 100% of this container */
-
+        #mapWrapper {
+            overflow: hidden;
+            padding-bottom: 56.25%;
+            position: relative;
+            height: 0;
+        }
         #map {
             left: 0;
             top: 0;
@@ -23,12 +27,6 @@
             position: absolute;
         }
 
-        #mapWrapper {
-            overflow: hidden;
-            padding-bottom: 56.25%;
-            position: relative;
-            height: 0;
-        }
     </style>
     <!--
             You need to include this script tag on any page that has a Google Map.
@@ -101,24 +99,32 @@
             </li>
             <li class="c-circle-nav__item">
                 <a href="#" class="c-circle-nav__link">
-                    <img src="img/pin.svg" alt="">
+                    <img src="img/info.svg" height="96px" width="auto" alt="">
                 </a>
             </li>
-            <li class="c-circle-nav__item">
-                <a href="#" class="c-circle-nav__link">
-                    <img src="img/search.svg" alt="">
-                </a>
-            </li>
-            <li class="c-circle-nav__item">
-                <a href="#" class="c-circle-nav__link">
-                    <img src="img/tools.svg" alt="">
-                </a>
-            </li>
+
         </ul>
     </nav>
 
     <script src="js/circleMenu.js"></script>
 
+
+
+<!--
+    <script>
+            $(document).mousemove (function (e) {
+                var x = (e.pageX - 50) + 'px';
+                var y = (e.pageY - 50) + 'px';
+
+
+                $('.c-circle-nav').css({
+                    'top': y,
+                    'left': x
+                }).fadeIn('slow');
+
+            });
+    </script>
+-->
 
 </body>
 
