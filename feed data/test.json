@@ -1,0 +1,28 @@
+{
+   "timezone": "-00:10:00",
+   "defaultstopinterval": "00:00:10",
+   "vehicles":
+   [
+      {
+         "name": "Test",
+         "info": "Blazing Fast!",
+         "route": "Route",
+         "stops":
+         [
+            {
+               "name": "Point 3",
+               "departure": { "time":"3:50", "day": 1 }
+            },
+            {
+               "name": "Point 4",
+               "departure": { "time":"3:55", "day": 1 }
+            },
+            {
+               "name": "Point 5",
+               "departure": { "time":"3:58", "day": 1 },
+                "arrival": {"time":"4:00", "day": 1}
+            }
+         ]
+      }
+   ]
+}
