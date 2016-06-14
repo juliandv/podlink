@@ -7,6 +7,7 @@
     <script src="js/leaflet.js"></script>
     <script src="js/jquery-1.10.1.min.js"></script>
     <script src="js/transit-osm-min.js"></script>
+
     <style>
         #map {
             height: 100%;
@@ -25,74 +26,13 @@
 <body>
 
     <div id="map"></div>
-
-    <nav id="c-circle-nav" class="c-circle-nav">
-        <button id="c-circle-nav__toggle" class="c-circle-nav__toggle">
-            <span>Toggle</span>
-        </button>
-        <ul class="c-circle-nav__items">
-            <li class="c-circle-nav__item">
-                <a href="#" class="c-circle-nav__link">
-                    <img src="img/house.svg" alt="">
-                </a>
-            </li>
-            <li class="c-circle-nav__item">
-                <a href="#" class="c-circle-nav__link">
-                    <img src="img/photo.svg" alt="">
-                </a>
-            </li>
-            <li class="c-circle-nav__item">
-                <a href="#" class="c-circle-nav__link">
-                    <img src="img/info.svg" height="96px" width="auto" alt="">
-                </a>
-            </li>
-
-        </ul>
-    </nav>
-
-    <script src="js/circleMenu.js"></script>
-
-    <script>
-        // initialize the map
-
-        var map = L.map('map', {
-            center: [-36.875409, 174.751905],
-            zoom: 13
-        })
-
-
-        var Thunderforest_TransportDark = L.tileLayer('http://{s}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png', {
-//            attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-            maxZoom: 19
-        });
-
-//                var waterColor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
-//                    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-//                    subdomains: 'abcd',
-//                    minZoom: 1,
-//                    maxZoom: 16,
-//                    ext: 'png'
-//                });
-//
-//                var roads = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/toner-hybrid/{z}/{x}/{y}.{ext}', {
-//                    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-//                    subdomains: 'abcd',
-//                    minZoom: 0,
-//                    maxZoom: 20,
-//                    ext: 'png'
-//                });
-//
-//                var maps = L.layerGroup([Thunderforest_TransportDark, roads]);
-
-        transit.initialize("#map",
-            Thunderforest_TransportDark,
-            "feedData/routes.kml",
-            "feedData/routes.json");
-
-        //        map.on('click', function (e) {
-        //            alert(e.latlng);
-        //        });
-    </script>
 </body>
+<script src="js/main.js"></script>
+
+<script>
+    // initialize the map
+
+
+</script>
 
 </html>

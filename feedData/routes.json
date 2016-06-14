@@ -1,5 +1,5 @@
 {
-    "timezone": "+13:30:00",
+    "timezone": "+12:00:00",
     "defaultstopinterval": "00:00:30",
     "vehicles": [
         {
@@ -10,21 +10,21 @@
                 {
                     "name": "24 Shaw Rd, Glen Eden, Auckland 0602, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "159-169 Rosebank Rd, Avondale, Auckland 1026, New Zealand",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "76-78 Victoria St W, Auckland, Auckland 1010, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -38,28 +38,28 @@
                 {
                     "name": "344-346 Glengarry Rd, Glen Eden, Auckland 0602, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "178-180 New Windsor Rd, New Windsor, Auckland 0600, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:10",
                         "day": 1
                     }
             },
                 {
                     "name": "56 Kitchener Rd, Sandringham, Auckland 1025, New Zealand",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             },
                 {
                     "name": "13-15 Mount St, Auckland, Auckland 1010, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -73,28 +73,28 @@
                 {
                     "name": "36-38 Godley Rd, Green Bay, Auckland 0604, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "6-8 Boyce Ave, Mount Roskill, Auckland 1041, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:10",
                         "day": 1
                     }
             },
                 {
                     "name": "1025 Mount Eden Rd, Three Kings, Auckland 1024, New Zealand",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             },
                 {
                     "name": "85 Fort St, Auckland, Auckland 1010, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -108,21 +108,21 @@
                 {
                     "name": "57 Onehunga Harbour Rd, Onehunga, Auckland 1061, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "1 Coles Ave, Mount Eden, Auckland 1024, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "Beaumont St, St Marys Bay, Auckland, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -136,21 +136,21 @@
                 {
                     "name": "140-142 Captain Springs Rd, Onehunga, Auckland 1061, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "163 Park Rd, Grafton, Auckland 1023, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "128-138 St Georges Bay Rd, Parnell, Auckland 1010, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -164,21 +164,21 @@
                 {
                     "name": "11 Athlone Rd, Glendowie, Auckland 1071, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "197-199 Green Ln W, Epsom, Auckland 1051, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "20-22 Princes Ave, Mount Roskill, Auckland 1041, New Zealand",
                     "arrival": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             }
@@ -192,14 +192,14 @@
                 {
                     "name": "30 Watchfield Cl, Mangere, Auckland 2022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "10 Lauder Rd, Mount Eden, Auckland 1024, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -213,14 +213,14 @@
                 {
                     "name": "George Bolt Memorial Dr, Mangere, Auckland 2022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "4 Tinley St, Auckland, Auckland 1010, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -234,28 +234,28 @@
                 {
                     "name": "60 Constellation Dr, Rosedale, Auckland 0632, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "24-26 Hayman Pl, Beach Haven, Auckland 0626, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "Northcote Rd, Takapuna, Auckland 0627, New Zealand",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             },
                 {
                     "name": "12 Mountfield Terrace, Mount Albert, Auckland 1025, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -269,28 +269,28 @@
                 {
                     "name": "2 Oldham Pl, Browns Bay, Auckland 0630, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "15 Gills Rd, Albany Heights, Auckland 0632, New Zealand",
                     "departure": {
-                        "time": "11:10",
+                        "time": "12:15",
                         "day": 1
                     }
             },
                 {
                     "name": "18-20 Hellyers St, Birkdale, Auckland 0626, New Zealand",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             },
                 {
                     "name": "7A Carrick Pl, Mount Eden, Auckland 1024, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -305,21 +305,21 @@
                 {
                     "name": "Point 3",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "Point 4",
                     "departure": {
-                        "time": "11:20",
+                        "time": "12:20",
                         "day": 1
                     }
             },
                 {
                     "name": "Point 5",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -333,14 +333,14 @@
                 {
                     "name": "72 Oceanview Rd, Oneroa, Auckland 1081, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "Unnamed Road, Waiheke Island, Auckland 1971, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -354,14 +354,14 @@
                 {
                     "name": "70 Cowes Bay Rd, Waiheke Island, Auckland 1971, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "456 Gordons Rd, Waiheke Island, Auckland 1971, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -375,14 +375,14 @@
                 {
                     "name": "Unnamed Road, Auckland 1971, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "11 Beresford Ave, Surfdale, Auckland 1081, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -396,14 +396,14 @@
                 {
                     "name": "21 Sunny Brae Cres, Westmere, Auckland 1022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "16-18 Westmoreland St W, Grey Lynn, Auckland 1021, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -417,14 +417,14 @@
                 {
                     "name": "58 Kiwi Rd, Point Chevalier, Auckland 1022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "18-20 Rawhiti Rd, One Tree Hill, Auckland 1061, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -438,14 +438,14 @@
                 {
                     "name": "11-13 Manapau St, Meadowbank, Auckland 1072, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "41-47 Robley Cres, Glendowie, Auckland 1071, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -459,14 +459,14 @@
                 {
                     "name": "11-15 Bell Ave, Mount Wellington, Auckland 1060, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "5 Towai St, St Heliers, Auckland 1071, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -480,14 +480,14 @@
                 {
                     "name": "1 Witla Ct, Mangere Bridge, Auckland 2022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "47-51 Archboyd Ave, Mangere East, Auckland 2024, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -501,14 +501,14 @@
                 {
                     "name": "122-124 Boundary Rd, Clover Park, Auckland 2023, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "7 Hutton St, Otahuhu, Auckland 1062, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -522,14 +522,14 @@
                 {
                     "name": "61-73 Mcquoids Rd, Flat Bush, Auckland 2016, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "44-48 Jandell Cres, Bucklands Beach, Auckland 2014, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -543,14 +543,14 @@
                 {
                     "name": "452-454 Remuera Rd, Remuera, Auckland 1050, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "6 Wiles Ave, Remuera, Auckland 1050, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -564,14 +564,14 @@
                 {
                     "name": "28 Dilworth Ave, Remuera, Auckland 1050, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "21-23 Awatea Rd, Parnell, Auckland 1052, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -585,14 +585,14 @@
                 {
                     "name": "339 Neilson St, Penrose, Auckland 1061, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "Hampton Ct, Mount Wellington, Auckland 1060, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -606,14 +606,14 @@
                 {
                     "name": "99-101 Walker Rd, Point Chevalier, Auckland 1022, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "69-71 Sarsfield St, Herne Bay, Auckland 1011, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -627,14 +627,14 @@
                 {
                     "name": "46 Esmonde Rd, Takapuna, Auckland 0622, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "3 Moray Pl, Point Chevalier, Auckland 1022, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -648,14 +648,14 @@
                 {
                     "name": "190-192 Cliff View Dr, Green Bay, Auckland 0604, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "18 Cape Horn Rd, Mount Roskill, Auckland 1041, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -669,14 +669,14 @@
                 {
                     "name": "41 Makora Rd, Massey, Auckland 0614, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "5 Clinker St, Mount Roskill, Auckland 1042, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -690,14 +690,14 @@
                 {
                     "name": "54 Churchill Rd, Cockle Bay, Auckland 2014, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "3 Higgs Rd, Mount Wellington, Auckland 1060, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -711,14 +711,14 @@
                 {
                     "name": "32 Sunnymead Rd, Glen Innes, Auckland 1072, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "72-76 Tennessee Ave, Mangere East, Auckland 2024, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }
@@ -732,14 +732,14 @@
                 {
                     "name": "8-16 Island Bay Rd, Beach Haven, Auckland 0626, New Zealand",
                     "departure": {
-                        "time": "11:00",
+                        "time": "12:00",
                         "day": 1
                     }
             },
                 {
                     "name": "33-35 Sunrise Ave, Murrays Bay, Auckland 0630, New Zealand",
                     "arrival": {
-                        "time": "12:59",
+                        "time": "12:30",
                         "day": 1
                     }
             }

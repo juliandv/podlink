@@ -1494,7 +1494,7 @@
                 draggable: !1,
                 keyboard: !0,
                 zIndexOffset: 0,
-                opacity: 1,
+                opacity: 0,
                 riseOnHover: !1,
                 riseOffset: 250
             },
