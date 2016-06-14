@@ -189,9 +189,9 @@ var transit = function () {
                 t.fitBounds(e.target.getBounds())
             });
             t.addLayer(n);
-            t.addControl(new L.Control.Layers({}, {
-                "Show Routes": n
-            }))
+//            t.addControl(new L.Control.Layers({}, {
+//                "Show Routes": n
+//            }))
         },
         kmlPromise: function (e) {
             return $.ajax({
