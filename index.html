@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <title>A Leaflet map!</title>
+
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <script src="js/leaflet.js"></script>
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="js/transit-osm-min.js"></script>
+    <link rel="stylesheet" href="css/main.css">
+
+    <style>
+        #map {
+            height: 100%;
+            width: 1422px;
+        }
+    </style>
+</head>
+
+<body>
+
+   <div class="section group">
+       <div class="col span_1_of_9">
+           sd;kfhds
+       </div>
+       <div class="col span_8_of_9" id="map"></div>
+   </div>
+
+</body>
+<script src="js/main.js"></script>
+<script>
+    var map = L.map('map', {
+        center: [-36.875409, 174.751905],
+        zoom: 13
+    });
+
+    var Thunderforest_TransportDark = L.tileLayer('http://{s}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png', {
+        maxZoom: 19
+    });
+
+    transit.initialize("#map",
+        Thunderforest_TransportDark,
+        "feedData/routes.kml",
+        "feedData/routes.json");
+</script>
+
+</html>
