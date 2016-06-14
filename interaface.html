@@ -23,10 +23,10 @@
 <body>
 
     <div class="section group">
-        <div class="col span_1_of_9 logo">
-            <img src="images/podlink-logo.png" alt="">
+        <div class="col span_3_of_12 logo">
+            <img src="images/logo_black.png" alt="">
         </div>
-        <div class="col span_8_of_9" id="map"></div>
+        <div class="col span_9_of_12" id="map"></div>
     </div>
 
 </body>
@@ -37,36 +37,14 @@
     });
 
     var Thunderforest_TransportDark = L.tileLayer('http://{s}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png', {
-        maxZoom: 13,
-        minZoom: 13
+        maxZoom: 12,
+        minZoom: 12
     });
 
         transit.initialize("#map",
             Thunderforest_TransportDark,
             "feedData/routes.kml",
             "feedData/routes.json");
-</script>
-<script>
-    var fs = requirejs('fs');
-    var times = ['+12:00:00', '+11:30:00', '+11:00:00', '+10:30:00', '+10:00:00', '+09:30:00', '+09:00:00', '+08:30:00', '+08:00:00', '+07:30:00', '+07:00:00', '+06:30:00', '+06:00:00', '+05:30:00', '+05:00:00', '+04:30:00', '+04:00:00', '+03:30:00', '+03:00:00', '+02:30:00', '+02:00:00', '+01:30:00', '+01:00:00', '+00:30:00', '+00:00:00', '-00:30:00', '-01:00:00', '-01:30:00', '-02:00:00', '-02:30:00', '-03:00:00', '-03:30:00', '-04:00:00', '-04:30:00', '-05:00:00', '-05:30:00', '-06:00:00', '-06:30:00', '-07:00:00', '-07:30:00', '-08:00:00', '-08:30:00', '-09:00:00', '-09:30:00', '-10:00:00', '-10:30:00', '-11:00:00', '-11:30:00', '-12:00:00'];
-
-    var i = 0;
-
-
-    var data = JSON.parse(fs.readFileSync('feedData/routes.json').toString());
-    console.log('sasad');
-
-    setInterval(function () {
-        var dataFile = JSON.parse(fs.readFileSync('feedData/routes.json').toString());
-        if (i == 48)
-            i = 0;
-        else if (i !== 0)
-            i++;
-        else i = 1;
-        dataFile.timezone = times[i];
-        console.log(dataFile.timezone);
-        fs.writeFile('feedData/routes.json', JSON.stringify(dataFile));
-    }, 1000);
 </script>
 
 </html>
