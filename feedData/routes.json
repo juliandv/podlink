@@ -1,5 +1,5 @@
 {
-    "timezone": "+25:00:00",
+    "timezone": "+17:00:00",
     "defaultstopinterval": "00:00:30",
     "vehicles": [{
             "name": "Route 1",
@@ -24,7 +24,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 1x",
             "info": "Blazing Fast!",
             "route": "Route 1",
@@ -48,7 +48,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 1y",
             "info": "Blazing Fast!",
             "route": "Route 1",
@@ -72,7 +72,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 1z",
             "info": "Blazing Fast!",
             "route": "Route 1",
@@ -215,7 +215,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 3",
             "info": "Blazing Fast!",
             "route": "Route 3",
@@ -303,7 +303,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 3z",
             "info": "Blazing Fast!",
             "route": "Route 3",
@@ -332,7 +332,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 4",
             "info": "Blazing Fast!",
             "route": "Route 4",
@@ -355,7 +355,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 4x",
             "info": "Blazing Fast!",
             "route": "Route 4",
@@ -471,7 +471,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 5y",
             "info": "Blazing Fast!",
             "route": "Route 5",
@@ -494,7 +494,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 5z",
             "info": "Blazing Fast!",
             "route": "Route 5",
@@ -517,7 +517,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 6",
             "info": "Blazing Fast!",
             "route": "Route 6",
@@ -563,7 +563,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 6y",
             "info": "Blazing Fast!",
             "route": "Route 6",
@@ -586,7 +586,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 6z",
             "info": "Blazing Fast!",
             "route": "Route 6",
@@ -609,7 +609,7 @@
                     "day": 1
                 }
         }]
-    },   {
+    }, {
             "name": "Route 7",
             "info": "Blazing Fast!",
             "route": "Route 7",
@@ -643,7 +643,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 7y",
             "info": "Blazing Fast!",
             "route": "Route 7",
@@ -677,7 +677,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 8",
             "info": "Blazing Fast!",
             "route": "Route 8",
@@ -712,7 +712,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 8y",
             "info": "Blazing Fast!",
             "route": "Route 8",
@@ -729,7 +729,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 8z",
             "info": "Blazing Fast!",
             "route": "Route 8",
@@ -746,7 +746,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 9",
             "info": "Blazing Fast!",
             "route": "Route 9",
@@ -804,7 +804,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 9y",
             "info": "Blazing Fast!",
             "route": "Route 9",
@@ -833,7 +833,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 9z",
             "info": "Blazing Fast!",
             "route": "Route 9",
@@ -862,7 +862,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 10",
             "info": "Blazing Fast!",
             "route": "Route 10",
@@ -920,7 +920,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 10y",
             "info": "Blazing Fast!",
             "route": "Route 10",
@@ -949,7 +949,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 10z",
             "info": "Blazing Fast!",
             "route": "Route 10",
@@ -978,7 +978,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 11",
             "info": "Blazing Fast!",
             "route": "Route 11",
@@ -1001,7 +1001,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 11x",
             "info": "Blazing Fast!",
             "route": "Route 11",
@@ -1047,7 +1047,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 11z",
             "info": "Blazing Fast!",
             "route": "Route 11",
@@ -1070,7 +1070,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 12",
             "info": "Blazing Fast!",
             "route": "Route 12",
@@ -1121,7 +1121,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 12z",
             "info": "Blazing Fast!",
             "route": "Route 12",
@@ -1138,7 +1138,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 13",
             "info": "Blazing Fast!",
             "route": "Route 13",
@@ -1155,7 +1155,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 13x",
             "info": "Blazing Fast!",
             "route": "Route 13",
@@ -1189,7 +1189,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 13z",
             "info": "Blazing Fast!",
             "route": "Route 13",
@@ -1206,7 +1206,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 14",
             "info": "Blazing Fast!",
             "route": "Route 14",
@@ -1257,7 +1257,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 14z",
             "info": "Blazing Fast!",
             "route": "Route 14",
@@ -1274,7 +1274,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 15",
             "info": "Blazing Fast!",
             "route": "Route 15",
@@ -1308,7 +1308,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 15y",
             "info": "Blazing Fast!",
             "route": "Route 15",
@@ -1325,7 +1325,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 15z",
             "info": "Blazing Fast!",
             "route": "Route 15",
@@ -1342,7 +1342,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 16",
             "info": "Blazing Fast!",
             "route": "Route 16",
@@ -1376,7 +1376,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 16y",
             "info": "Blazing Fast!",
             "route": "Route 16",
@@ -1393,7 +1393,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 16z",
             "info": "Blazing Fast!",
             "route": "Route 16",
@@ -1410,7 +1410,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 17",
             "info": "Blazing Fast!",
             "route": "Route 17",
@@ -1427,7 +1427,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 17x",
             "info": "Blazing Fast!",
             "route": "Route 17",
@@ -1478,7 +1478,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 18",
             "info": "Blazing Fast!",
             "route": "Route 18",
@@ -1512,7 +1512,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 18y",
             "info": "Blazing Fast!",
             "route": "Route 18",
@@ -1529,7 +1529,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 18z",
             "info": "Blazing Fast!",
             "route": "Route 18",
@@ -1767,7 +1767,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 22x",
             "info": "Blazing Fast!",
             "route": "Route 22",
@@ -1784,7 +1784,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 22y",
             "info": "Blazing Fast!",
             "route": "Route 22",
@@ -1852,7 +1852,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 23y",
             "info": "Blazing Fast!",
             "route": "Route 23",
@@ -1869,7 +1869,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 23z",
             "info": "Blazing Fast!",
             "route": "Route 23",
@@ -1886,7 +1886,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 24",
             "info": "Blazing Fast!",
             "route": "Route 24",
@@ -1903,7 +1903,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 24x",
             "info": "Blazing Fast!",
             "route": "Route 24",
@@ -1937,7 +1937,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 24z",
             "info": "Blazing Fast!",
             "route": "Route 24",
@@ -1954,7 +1954,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 25",
             "info": "Blazing Fast!",
             "route": "Route 25",
@@ -2056,7 +2056,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 26y",
             "info": "Blazing Fast!",
             "route": "Route 26",
@@ -2090,7 +2090,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 27",
             "info": "Blazing Fast!",
             "route": "Route 27",
@@ -2124,7 +2124,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 27y",
             "info": "Blazing Fast!",
             "route": "Route 27",
@@ -2141,7 +2141,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 27z",
             "info": "Blazing Fast!",
             "route": "Route 27",
@@ -2175,7 +2175,7 @@
                     "day": 1
                 }
         }]
-    },  {
+    }, {
             "name": "Route 28x",
             "info": "Blazing Fast!",
             "route": "Route 28",
@@ -2226,7 +2226,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 29",
             "info": "Blazing Fast!",
             "route": "Route 29",
@@ -2329,7 +2329,7 @@
                 }
         }]
     },
-                 {
+        {
             "name": "Route 30y",
             "info": "Blazing Fast!",
             "route": "Route 30",
@@ -2346,7 +2346,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 30z",
             "info": "Blazing Fast!",
             "route": "Route 30",
@@ -2363,7 +2363,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 31",
             "info": "Blazing Fast!",
             "route": "Route 31",
@@ -2380,7 +2380,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 31x",
             "info": "Blazing Fast!",
             "route": "Route 31",
@@ -2397,7 +2397,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 31y",
             "info": "Blazing Fast!",
             "route": "Route 31",
@@ -2414,7 +2414,7 @@
                     "day": 1
                 }
         }]
-    },{
+    }, {
             "name": "Route 31z",
             "info": "Blazing Fast!",
             "route": "Route 31",
@@ -2426,6 +2426,844 @@
                 }
         }, {
                 "name": "33-35 Sunrise Ave, Murrays Bay, Auckland 0630, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "09:00",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 32a",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32b",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32c",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32d",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32e",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32f",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 32g",
+            "info": "Blazing Fast!",
+            "route": "Route 32",
+            "stops": [{
+                "name": "Southern Motorway, Eden Terrace, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Henderson, Auckland 0610, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 33",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "09:00",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33a",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33b",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33c",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33d",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33e",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33f",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 33g",
+            "info": "Blazing Fast!",
+            "route": "Route 33",
+            "stops": [{
+                "name": "2-4 Heaphy St, Blockhouse Bay, Auckland 0600, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Symonds St, Eden Terrace, Auckland 1010, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 34",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "9:00",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34a",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34b",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34c",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34d",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34e",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34f",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 34g",
+            "info": "Blazing Fast!",
+            "route": "Route 34",
+            "stops": [{
+                "name": "Southern Motorway, Otara, Auckland 2023, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Southern Motorway, Epsom, Auckland 1051, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "09:00",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35a",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    },
+
+        {
+            "name": "Route 35b",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35c",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35d",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35e",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35f",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 35g",
+            "info": "Blazing Fast!",
+            "route": "Route 35",
+            "stops": [{
+                "name": "19 Lakewood Ct, Manukau, Auckland 2104, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "South-Western Motorway, Mount Roskill, Auckland 1041, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 36",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "09:00",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36a",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 36b",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36c",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36d",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36e",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36f",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    }, {
+            "name": "Route 36g",
+            "info": "Blazing Fast!",
+            "route": "Route 36",
+            "stops": [{
+                "name": "2-4 Landsberg Way, Windsor Park, Auckland 0632, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "SH1 Northern Motorway, Massey, Auckland 0614, New Zealand",
+                "arrival": {
+                    "time": "17:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "09:00",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "10:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37a",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "10:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "11:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37b",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "11:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "12:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37c",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "12:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "13:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37d",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "13:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "14:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37e",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "14:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "15:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37f",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "15:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
+                "arrival": {
+                    "time": "16:00",
+                    "day": 1
+                }
+        }]
+    },
+        {
+            "name": "Route 37g",
+            "info": "Blazing Fast!",
+            "route": "Route 37",
+            "stops": [{
+                "name": "SH1 Northern Motorway, Auckland, Auckland 1010, New Zealand",
+                "departure": {
+                    "time": "16:01",
+                    "day": 1
+                }
+        }, {
+                "name": "Currys Ln, Wairau Valley, Auckland 0627, New Zealand",
                 "arrival": {
                     "time": "17:00",
                     "day": 1
