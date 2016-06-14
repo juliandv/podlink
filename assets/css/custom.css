@@ -1,13 +1,31 @@
+/*
 .mapContainer {
-    width: 500px;
-    height: 500px;
+    width: 70%;
+    height: auto;
     overflow: hidden;
     margin: -28px 0 0 54px;
-/*
     -webkit-transform: rotateX(13deg) rotateY(13deg) rotateZ(-18deg);
     -moz-transform: rotateX(13deg) rotateY(13deg) rotateZ(-18deg);
     -ms-transform: rotateX(13deg) rotateY(13deg) rotateZ(-18deg);
     -o-transform: rotateX(13deg) rotateY(13deg) rotateZ(-18deg);
-*/
 transform: perspective( 900px ) rotateY( 45deg );
+position: absolute;
+    left: 20%;
+    top: 0;
+}
+*/
+
+.mockupContainer {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+#interfaceEmbed {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+#quote {
+    font-style: italic;
 }

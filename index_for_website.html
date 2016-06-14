@@ -29,8 +29,8 @@
         <nav id="nav">
             <ul>
                 <li><a href="#one" class="active">About</a></li>
-                <li><a href="#two">Interactive Concept</a></li>
-                <li><a href="#three">About The Technology</a></li>
+                <li><a href="#two">How it works</a></li>
+                <li><a href="#three">Bus stop mockup</a></li>
             </ul>
         </nav>
         <footer>
@@ -50,45 +50,71 @@
                 <div class="container">
                     <header class="major">
                         <h2>PodLink</h2>
-                        <p>Just an incredibly simple responsive site
-                            <br /> template freebie by <a href="http://html5up.net">HTML5 UP</a>.</p>
+                        <p>An interactive and transparent bus stop interface</p>
                     </header>
-                    <p>Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum.</p>
+                    <p>Using an array of 40 Infrared LEDs and an infrared camera, a users finger is tracked as it comes in contact with with a sheet of acrylic, creating an interactive multitouch surface.</p>
+                    <p>
+
+                        Behind the arylic is a transparent rear projection film which allows the display to remain transparent while being projected upon. We see this type of technology being implemented in bus stops windows, for displaying up to date bus routes and other relevant info.</p>
                 </div>
             </section>
 
             <!-- Two -->
             <section id="two">
                 <div class="container">
-                    <h3>Things I Can Do</h3>
-                    <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
+                    <h3>How does it work?</h3>
+                    <p>The display uses 40 infrared LEDs, an infrared webcam, acrylic and image and finger blob processing software. Placed around 3 sides of the 10mm acrylic are the LEDs that face directly inwards. Frustrated total internal reflection (FTIR) is the phenomenon in which light inside of media remains reflecting upon the media until the index of refraction of another object in contact, in this case a finger, is presented , allowing the light to reflect off of the finger which creates a blob of light under it. To accomplish this effect a relatively thick acrylic sheet was required, and LEDs were faced inwards and pressed against a finely polished acrylic edge to allow for maximum light penetration.
+                    </p>
+                    <h3>Useful Links</h3>
                     <ul class="feature-icons">
-                        <li class="fa-code">Write all the code</li>
-                        <li class="fa-cubes">Stack small boxes</li>
-                        <li class="fa-book">Read books and stuff</li>
-                        <li class="fa-coffee">Drink much coffee</li>
-                        <li class="fa-bolt">Lightning bolt</li>
-                        <li class="fa-users">Shadow clone technique</li>
+                        <a href="http://wiki.nuigroup.com/Getting_Started_with_tbeta">
+                            <li>• NUI Getting Started</li>
+                        </a>
+                        <a href="http://nuigroup.com/forums">
+                            <li>• NUI Forums</li>
+                        </a>
+                        <a href="#">
+                            <li>• OpenStreetMap API</li>
+                        </a>
+                        <a href="https://developers.google.com/maps/">
+                            <li>• Google Maps APIs</li>
+                        </a>
+                        <a href="https://api.at.govt.nz/">
+                            <li>• Auckland Transport API</li>
+                        </a>
                     </ul>
+                    <h3>What is NUI?</h3>
+                    <p id="quote">"Multi-touch (or multitouch) denotes a set of interaction techniques which allow computer users to control graphical applications with several fingers. Multi-touch consists of a touch screen (e.g., computer display, table, wall) or touchpad, as well as software that recognizes multiple simultaneous touch points, as opposed to the standard touchscreen (e.g. computer touchpad, ATM), which recognizes only one touch point."
+                        <br> "The Natural User Interface and its influence on multi-touch gestural interface design has brought about key significant changes in computing hardware design, more specifically the creation of a “true” multi-touch hardware system (i.e. support for more than two inputs). The aim of NUI Group is to provide a platform where hardware and software knowledge can be exchanged freely; and through this free exchange of knowledge and information, there has been an increase in, development on the hardware side of things."</p>
+                    <p></p>
                 </div>
             </section>
 
             <!-- Three -->
             <section id="three">
                 <div class="container">
-                    <div class="mapContainer">
-                        <iframe src="snazzy-maps-example-subtle-grayscale-style.html" seamless width="100%" height="300px"></iframe>
+                    <div class="mockupContainer">
+                        <img id="busMockup" src="images/busstop_mockup.png" width="100%" height="auto">
+                        <h5>Bus mockup created by Steven Wong.</h5>
+
+                        <h3>Our Interface</h3>
+                        <div class="mapContainer">
+                            <iframe id="interfaceEmbed" src="snazzy-maps-example-subtle-grayscale-style.html" seamless></iframe>
+                        </div>
                     </div>
+<!--
                     <h3>A Few Accomplishments</h3>
                     <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+-->
                     <div class="features">
                         <article>
-                            <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+                            <a href="#" class="image"><img src="images/display.png" alt="" /></a>
                             <div class="inner">
-                                <h4>Possibly broke spacetime</h4>
-                                <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+                                <h4>Raising Interest</h4>
+                                <p>We hope to have raised some interest around future transportation, as well as touch screen technologies</p>
                             </div>
                         </article>
+<!--
                         <article>
                             <a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
                             <div class="inner">
@@ -103,6 +129,7 @@
                                 <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
                             </div>
                         </article>
+-->
                     </div>
                 </div>
             </section>
