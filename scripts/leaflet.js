@@ -3325,14 +3325,14 @@
         }), o.Control.Zoom = o.Control.extend({
             options: {
                 position: "topleft",
-                zoomInText: "+",
+                zoomInText: "",
                 zoomInTitle: "Zoom in",
-                zoomOutText: "-",
+                zoomOutText: "",
                 zoomOutTitle: "Zoom out"
             },
             onAdd: function (t) {
-                var e = "leaflet-control-zoom",
-                    i = o.DomUtil.create("div", e + " leaflet-bar");
+                var e = "leaflet-control-zoom";
+                var    i = o.DomUtil.create("div", e + " leaflet-bar");
                 return this._map = t, this._zoomInButton = this._createButton(this.options.zoomInText, this.options.zoomInTitle, e + "-in", i, this._zoomIn, this), this._zoomOutButton = this._createButton(this.options.zoomOutText, this.options.zoomOutTitle, e + "-out", i, this._zoomOut, this), this._updateDisabled(), t.on("zoomend zoomlevelschange", this._updateDisabled, this), i
             },
             onRemove: function (t) {
