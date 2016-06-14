@@ -1,5 +1,5 @@
 {
-    "timezone": "+24:00:00",
+    "timezone": "+25:00:00",
     "defaultstopinterval": "00:00:30",
     "vehicles": [{
             "name": "Route 1",
