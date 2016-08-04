@@ -126,7 +126,8 @@ var transit = function () {
                     left: "35%",
                     "z-index": "99",
                     "border-radius": "5px",
-                    padding: "5px"
+                    padding: "5px",
+                    display: none
                 });
                 $(i).autocomplete({
                     source: t,
